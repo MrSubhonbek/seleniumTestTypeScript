@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/seleniumTestTypeScript/static/css/main.0b175044.chunk.css",
+    "main.js": "/seleniumTestTypeScript/static/js/main.e8ebd501.chunk.js",
+    "main.js.map": "/seleniumTestTypeScript/static/js/main.e8ebd501.chunk.js.map",
+    "runtime-main.js": "/seleniumTestTypeScript/static/js/runtime-main.718de6b8.js",
+    "runtime-main.js.map": "/seleniumTestTypeScript/static/js/runtime-main.718de6b8.js.map",
+    "static/js/2.bde6e031.chunk.js": "/seleniumTestTypeScript/static/js/2.bde6e031.chunk.js",
+    "static/js/2.bde6e031.chunk.js.map": "/seleniumTestTypeScript/static/js/2.bde6e031.chunk.js.map",
+    "index.html": "/seleniumTestTypeScript/index.html",
+    "static/css/main.0b175044.chunk.css.map": "/seleniumTestTypeScript/static/css/main.0b175044.chunk.css.map",
+    "static/js/2.bde6e031.chunk.js.LICENSE.txt": "/seleniumTestTypeScript/static/js/2.bde6e031.chunk.js.LICENSE.txt",
+    "static/media/plus.645eeb88.svg": "/seleniumTestTypeScript/static/media/plus.645eeb88.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.718de6b8.js",
+    "static/js/2.bde6e031.chunk.js",
+    "static/css/main.0b175044.chunk.css",
+    "static/js/main.e8ebd501.chunk.js"
+  ]
+}
